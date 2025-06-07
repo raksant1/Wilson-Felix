@@ -1,8 +1,8 @@
-# 👩🏻‍💻 [WILSON FELIX]
+# 👩🏻‍💻 WILSON FELIX
 
 **`[Desenvolvedor Frontend | Analista de Dados | Analista de Projetos]`**
 
-Olá! Me chamo [Wilson], tenho [47] anos e sou de [Osasco/SP]. Atualmente, estou focado(a) em aprimorar minhas habilidades em desenvolvimento de software e tecnologia.
+Olá! Me chamo Wilson atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software e tecnologia.
 
 Sou um(a) entusiasta de [soluções de frontend, python] e estou sempre em busca de novos desafios para expandir meu conhecimento e aplicá-lo em projetos práticos.
 
