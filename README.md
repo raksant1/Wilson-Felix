@@ -2,7 +2,7 @@
 
 **`[Desenvolvedor Frontend | Analista de Dados | Analista de Projetos]`**
 
-Olá! Me chamo Wilson atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software e tecnologia.
+Aprimorando minhas habilidades em desenvolvimento de software e tecnologia.
 
 Sou um(a) entusiasta de [soluções de frontend, python] e estou sempre em busca de novos desafios para expandir meu conhecimento e aplicá-lo em projetos práticos.
 
